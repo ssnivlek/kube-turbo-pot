@@ -25,7 +25,7 @@ Next, follow these steps:
      - Enter the desired name for the cluster, for example: `"pot-test"` or `"pot-kubeturbo"`.
    - `icr.io/cpopen/turbonomic/kubeturbo:8.9.1`
      - Modify `8.9.1` with the version of Turbonomic in your environment.
-       - You can find the version by clicking on the small question mark icon in the lower-left corner of the Turbonomic Dashboard and noting the version (see the image below for reference):
+       - You can find the version by clicking on the small question mark icon in the lower-left corner of the Turbonomic Dashboard and noting the version(see the image below for reference):
          ![Turbonomic Version](./version.png)
 
 5. Save the modified file.
