@@ -23,7 +23,7 @@ Em seguida, siga os seguintes passos:
    - `"turboServer": "https://<Turbo_server_URL>"`
      - Nesta linha, modifique para a URL de acesso do Turbonomic desejada, neste caso: `"https://10.0.0.1"`
    - `"opsManagerPassword": "<Turbo_password>"`
-     - Digite a senha padrão que você criou ou a senha que foi modificada nos passos anteriores ao se criar o usuário kubeturbo
+     - Digite a senha padrão que você criou ou a senha que foi modificada nos passos anteriores ao se criar o usuário `kubeturbo`
    - `"targetName": "NOME_DO_CLUSTER"`
      - Digite o nome desejado para o cluster, como por exemplo: `"pot-test"` ou `"pot-kubeturbo"`
    - `icr.io/cpopen/turbonomic/kubeturbo:8.9.1`
