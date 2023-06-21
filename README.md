@@ -21,7 +21,7 @@ Em seguida, siga os seguintes passos:
 4. Dentro do arquivo, faça as seguintes modificações:
 
    - `"turboServer": "https://<Turbo_server_URL>"`
-     - Nesta linha, modifique para a URL de acesso do Turbonomic desejada, como por exemplo: `"https://10.0.0.1"`
+     - Nesta linha, modifique para a URL de acesso do Turbonomic desejada, neste caso: `"https://10.0.0.1"`
    - `"opsManagerPassword": "<Turbo_password>"`
      - Digite a senha padrão que você criou ou a senha que foi modificada nos passos anteriores ao se criar o usuário kubeturbo
    - `"targetName": "NOME_DO_CLUSTER"`
